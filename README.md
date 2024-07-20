@@ -10,6 +10,7 @@
 
 ```sh
 sudo apt-get install python3-tk
+```
 
 --- 
 # Использование
@@ -18,6 +19,7 @@ sudo apt-get install python3-tk
 * Запустите приложение командой:
 ```sh
 python3 app.py
+```
 
 Или можно запустить через "Run" в VSCode 
 
